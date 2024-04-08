@@ -1,4 +1,5 @@
-# MFIGAN(Multi-scale Feature Integration Generative Adversarial Network for Face Reenactment in Full Image)
+# MFIGAN (Multi-scale Feature Integration Generative Adversarial Network for Priori-knowledge-Free Global Face Reenactment)
+
 This is the official code of MFIGAN, which is implemented by PyTorch.
 
 There are the some results of face reenactment realized by MFIGAN.
